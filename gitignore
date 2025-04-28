@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Excel files
+*.xls
+*.xlsx
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
